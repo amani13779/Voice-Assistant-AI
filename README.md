@@ -20,7 +20,11 @@ A simple Python-based voice assistant that listens to voice commands, processes 
 *A demonstration of the Voice Assistant execution is shown below.*
 
 
-Uploading جارٍ تسجيل الشاشة 2026-08-04 011402.mp4…
+
+
+https://github.com/user-attachments/assets/072f3e4b-85bc-4c1c-b953-3ba7ceaa9aa5
+
+
 
 
 
